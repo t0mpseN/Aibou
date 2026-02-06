@@ -1,2 +1,2 @@
-# Aibou
-Aibou (相棒) is a Japanese language learning platform.
+# Aibō 相棒 
+Aibō (相棒) is a Japanese language learning platform.
